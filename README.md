@@ -12,7 +12,7 @@ The author has worked to make sure that all information in this book is accurate
 Table of Contents
 - [Dedication](./Dedication.md)
 - [Preface](./Preface.md)
-- [Why did you write a book?]()
+- [Why did you write a book?](./Why_write_book.md)
 - [Why call addiction a disease?]()
 - [When did doctors realize addiction is a disease?]()
 - [What is addiction?]()
