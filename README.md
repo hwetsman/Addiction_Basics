@@ -16,7 +16,7 @@ Table of Contents
 - [Why call addiction a disease?](./Why_illness.md)
 - [When did doctors realize addiction is a disease?](./When_doctors_realized.md)
 - [What is addiction?](./What_is_addiction.md)
-- [If drug use isn’t a symptom of addiction, what are the symptoms?]()
+- [If drug use isn’t a symptom of addiction, what are the symptoms?](./If_drug_use_isnt.md)
 - [So what happens when we take a drug?]()
 - [Can too much dopamine protect you from addiction?]()
 - [What’s an addicting drug?]()
