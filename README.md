@@ -14,7 +14,7 @@ Table of Contents
 - [Preface](./Preface.md)
 - [Why did you write a book?](./Why_write_book.md)
 - [Why call addiction a disease?](./Why_illness.md)
-- [When did doctors realize addiction is a disease?]()
+- [When did doctors realize addiction is a disease?](./When_doctors_realized.md)
 - [What is addiction?]()
 - [If drug use isn’t a symptom of addiction, what are the symptoms?]()
 - [So what happens when we take a drug?]()
