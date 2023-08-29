@@ -15,7 +15,7 @@ Table of Contents
 - [Why did you write a book?](./Why_write_book.md)
 - [Why call addiction a disease?](./Why_illness.md)
 - [When did doctors realize addiction is a disease?](./When_doctors_realized.md)
-- [What is addiction?]()
+- [What is addiction?](./What_is_addiction.md)
 - [If drug use isn’t a symptom of addiction, what are the symptoms?]()
 - [So what happens when we take a drug?]()
 - [Can too much dopamine protect you from addiction?]()
