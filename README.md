@@ -17,7 +17,7 @@ Table of Contents
 - [When did doctors realize addiction is a disease?](./When_doctors_realized.md)
 - [What is addiction?](./What_is_addiction.md)
 - [If drug use isn’t a symptom of addiction, what are the symptoms?](./If_drug_use_isnt.md)
-- [So what happens when we take a drug?]()
+- [So what happens when we take a drug?](./What_happens.md)
 - [Can too much dopamine protect you from addiction?]()
 - [What’s an addicting drug?]()
 - [If the reward system is the problem, can’t we just remove it?]()
