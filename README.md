@@ -18,7 +18,7 @@ Table of Contents
 - [What is addiction?](./What_is_addiction.md)
 - [If drug use isn’t a symptom of addiction, what are the symptoms?](./If_drug_use_isnt.md)
 - [So what happens when we take a drug?](./What_happens.md)
-- [Can too much dopamine protect you from addiction?]()
+- [Can too much dopamine protect you from addiction?](./Can_too_much.md)
 - [What’s an addicting drug?]()
 - [If the reward system is the problem, can’t we just remove it?]()
 - [Can’t we just block the dopamine?]()
