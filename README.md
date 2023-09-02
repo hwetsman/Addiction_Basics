@@ -20,7 +20,7 @@ Table of Contents
 - [So what happens when we take a drug?](./What_happens.md)
 - [Can too much dopamine protect you from addiction?](./Can_too_much.md)
 - [What’s an addicting drug?](./What_is_an_addicting.md)
-- [If the reward system is the problem, can’t we just remove it?]()
+- [If the reward system is the problem, can’t we just remove it?](./If_the_reward_system.md)
 - [Can’t we just block the dopamine?]()
 - [Can you be addicted to something good?]()
 - [Can we just get rid of the drug?]()
