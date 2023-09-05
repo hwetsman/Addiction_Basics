@@ -24,7 +24,7 @@ Table of Contents
 - [Can’t we just block the dopamine?](./Cant_we_just.md)
 - [Can you be addicted to something good?](./Can_you_be_addicted.md)
 - [Can we just get rid of the drug?](./Can_we_get_rid_of.md)
-- [Why does addiction get worse?]()
+- [Why does addiction get worse?](./Why_does_addiction_get.md)
 - [So is this why someone with addiction uses more over time?]()
 - [Did I cause this?]()
 - [What are Type I and Type II addiction?]()
