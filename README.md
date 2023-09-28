@@ -26,7 +26,7 @@ Table of Contents
 - [Can we just get rid of the drug?](./Can_we_get_rid_of.md)
 - [Why does addiction get worse?](./Why_does_addiction_get.md)
 - [So is this why someone with addiction uses more over time?](./So_is_this_why.md)
-- [Did I cause this?]()
+- [Did I cause this?](./Did_I_cause.md)
 - [What are Type I and Type II addiction?]()
 - [Can you get addiction even if you aren’t born with it?]()
 - [Where is addiction in the brain?]()
