@@ -32,7 +32,7 @@ Table of Contents
 - [Where is addiction in the brain?](./Where_is_addiction.md)
 - [What is Harm Reduction?](./What_is_harm.md)
 - [Any harm in looking at addiction a different way?](./Any_harm_in.md)
-- [If this is so biological, why should I to go to AA?]()
+- [If this is so biological, why should I to go to AA?](./If_this_is_so.md)
 - [Is there any medical way to raise your dopamine receptor density?]()
 - [If this is Addiction, what’s Substance Dependence?]()
 - [Drugs or behaviors: what do we call these things?]()
