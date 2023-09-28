@@ -30,7 +30,7 @@ Table of Contents
 - [What are Type I and Type II addiction?](./TypeI_and_typeII.md)
 - [Can you get addiction even if you aren’t born with it?](./Can_you_get.md)
 - [Where is addiction in the brain?](./Where_is_addiction.md)
-- [What is Harm Reduction?]()
+- [What is Harm Reduction?](./What_is_harm.md)
 - [Any harm in looking at addiction a different way?]()
 - [If this is so biological, why should I to go to AA?]()
 - [Is there any medical way to raise your dopamine receptor density?]()
