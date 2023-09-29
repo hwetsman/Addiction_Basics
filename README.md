@@ -42,4 +42,4 @@ Table of Contents
 - [What are the medications used in Addiction?](./What_are_the_medications.md)
 - [Who needs more than medicine and recovery?](./Who_needs_more.md)
 - [I got treatment, I’m taking medicine. So why do I need this recovery stuff too?](./I_got_treatment.md)
-- [I know you said you were finished, but I have one last question: could you be wrong?]()
+- [I know you said you were finished, but I have one last question: could you be wrong?](./I_know_you_said.md)
