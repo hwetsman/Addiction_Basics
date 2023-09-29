@@ -35,7 +35,7 @@ Table of Contents
 - [If this is so biological, why should I to go to AA?](./If_this_is_so.md)
 - [Is there any medical way to raise your dopamine receptor density?](./Is_there_any.md)
 - [If this is Addiction, what’s Substance Dependence?](./If_this_is_addiction.md)
-- [Drugs or behaviors: what do we call these things?]()
+- [Drugs or behaviors: what do we call these things?](./Drugs_or_behaviors.md)
 - [Are drugs different from other rewards?]()
 - [Can you put all the neurobiology stuff together in one picture along with what can go wrong?]()
 - [Does neurobiology also determine who likes which reward?]()
