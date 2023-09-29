@@ -2,8 +2,11 @@
 there have been many improvements of specifics of the neurobiology and medications
 available since then, the underlying model is still intact. The more mainstream model
 still suggests that everyone is normal before using drugs, and that there is no role for
-genetics in choosing treatments beyond pharmacokinetics. Please seek competant medical
-advice from an up to date physician before choosing any treatment discussed here.]
+genetics in choosing treatments beyond pharmacokinetics. This is a disservice to those
+with addiction. We need a broader model that explains the broader illness if we
+are to end addiction as a problem in American life.
+
+Please seek competent medical advice from an up to date physician before choosing any treatment discussed here.]
 
 
 <p align="center"><h1>Addiction_Basics</h1>
