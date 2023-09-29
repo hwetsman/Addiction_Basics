@@ -1,11 +1,18 @@
+[Note on 2023 placement on github: This book was written over a decade ago. While
+there have been many improvements of specifics of the neurobiology and medications
+available since then, the underlying model is still intact. The more mainstream model
+still suggests that everyone is normal before using drugs, and that there is no role for
+genetics in choosing treatments beyond pharmacokinetics. Please seek competant medical
+advice from an up to date physician before choosing any treatment discussed here.]
+
+
 <p align="center"><h1>Addiction_Basics</h1>
 <h1>(QAA)</h1>
 Howard Wetsman MD, DFASAM</p>
 
 
 
-This is a short book for those with addiction or their families. It lays out the underlying biology
-of the illness and explains what most mainstream information does not.
+This is a short book for those with addiction or their families. It lays out the underlying biology of the illness and explains what most mainstream information does not.
 
 The author has worked to make sure that all information in this book is accurate at the time of publication. Ideas about specific use of medication are based on the author’s understanding of the biological mechanisms of those medications and may be found to be incorrect in the future. The author does not mean this work to be medical advice to any individual who reads it. This book is for professional use only. Never treat yourself. Seek professional care. Professionals should substantiate any of the author’s claims before acting on information herein.
 
