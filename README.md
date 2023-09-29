@@ -38,7 +38,7 @@ Table of Contents
 - [Drugs or behaviors: what do we call these things?](./Drugs_or_behaviors.md)
 - [Are drugs different from other rewards?](./Are_drugs_dfferent.md)
 - [Can you put all the neurobiology stuff together in one picture along with what can go wrong?](./Can_you_put.md)
-- [Does neurobiology also determine who likes which reward?]()
+- [Does neurobiology also determine who likes which reward?](./Does_neurobiology_also.md)
 - [What are the medications used in Addiction?]()
 - [Who needs more than medicine and recovery?]()
 - [I got treatment, I’m taking medicine. So why do I need this recovery stuff too?]()
