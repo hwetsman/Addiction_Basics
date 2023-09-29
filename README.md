@@ -36,7 +36,7 @@ Table of Contents
 - [Is there any medical way to raise your dopamine receptor density?](./Is_there_any.md)
 - [If this is Addiction, what’s Substance Dependence?](./If_this_is_addiction.md)
 - [Drugs or behaviors: what do we call these things?](./Drugs_or_behaviors.md)
-- [Are drugs different from other rewards?]()
+- [Are drugs different from other rewards?](./Are_drugs_dfferent.md)
 - [Can you put all the neurobiology stuff together in one picture along with what can go wrong?]()
 - [Does neurobiology also determine who likes which reward?]()
 - [What are the medications used in Addiction?]()
