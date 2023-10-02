@@ -25,6 +25,6 @@ For most of the “Fisher” people, everything might have been okay except that
 
 My clinical experience is different from Cloninger’s. Most, about 80%, of the people I talk to with addiction are Type II’s. Type I’s are not that common in my practice. Back in the 80’s people thought alcoholism and drug addiction were two different things, so when they studied alcoholics, they tried to get a pure population. They excluded those alcoholics who used other drugs. If you do that you will get a population over-represented by Type I’s, and I think that’s what happened with Cloninger’s research.
 
-<a name="foot9" href="#ref11">[9]</a>: Cloninger CR: Neurogenetic Adaptive Mechanisms in Alcoholism. Science 236: 410-416, 1987.
+<a name="foot9" href="#ref9">[9]</a>: Cloninger CR: Neurogenetic Adaptive Mechanisms in Alcoholism. Science 236: 410-416, 1987.
 
-<a name="foot10" href="#ref11">[10]</a>: Flores G, Wood GK, et al. Lewis and Fischer rats: A Comparison of Dopamine Transporter and Receptor Levels. Brain Research 1998 Dec 14: 814(1-2):34-40.
+<a name="foot10" href="#ref10">[10]</a>: Flores G, Wood GK, et al. Lewis and Fischer rats: A Comparison of Dopamine Transporter and Receptor Levels. Brain Research 1998 Dec 14: 814(1-2):34-40.
