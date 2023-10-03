@@ -11,4 +11,4 @@ As you can see by the chart, the drugs work at different time intervals, and it 
 As the dopamine level spikes, the receptors go away to protect the system from too much dopamine. The more dopamine released the more receptors will go away. So, while the amount of dopamine at 100 minutes after taking a drug might look like it’s higher than normal, the person will feel worse than when he started because there are fewer dopamine receptors, and less dopamine signal will get through. So, instead of being a peak and a slow return to normal, it really feels something like this:
 
 
-<a name="foot3" href="#ref4">[3]</a>: Di Chiara G and Imperato A. Drugs Abused by Humans Preferentially Increase Synaptic Dopamine Concentrations in the Mesolimbic System of Freely Moving Rats. Proceedings of the National Academy of Sciences of the US of A 1988;85: 5274-5278.
+<a name="foot3" href="#ref3">[3]</a>: Di Chiara G and Imperato A. Drugs Abused by Humans Preferentially Increase Synaptic Dopamine Concentrations in the Mesolimbic System of Freely Moving Rats. Proceedings of the National Academy of Sciences of the US of A 1988;85: 5274-5278.
