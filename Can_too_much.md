@@ -10,8 +10,7 @@ DA tone = DA molecules X DA receptors X TIME
 
 Where TIME is the amount of time the dopamine molecules are in the synapse. The dopamine transporters determine the time. The more receptors and the better they work, the less time the dopamine stays out to produce a signal. So, the equation can be written as:
 
-DA Tone = DA molecules X DA Receptors
-			DA transporters
+DA Tone = DA molecules<sup>DA transporters</sup> X DA Receptors<sup>DA transporters</sup>
 
 Now that you know what determines the dopamine tone let’s look at how dopamine tone can protect someone from addiction. In a recent study at Brookhaven National Laboratory, researchers looked at non-alcoholics with at least three first-degree alcoholic relatives. You would expect such a person to have a high risk of alcoholism, and the question is, “Why aren’t they alcoholic?” Well, it turns out that they have a higher-than-normal level of dopamine receptors and can feel positive rewards better than most people<a name="ref4" href="#foot4">[4]</a>. Here’s a group that you’d expect, from family history, to not be able to feel reward and to crave alcohol. But they are different not only from their family but from most people because they have more dopamine receptors than normal, a very protective trait. They feel naturally what people with addiction want to feel and can feel a bit when they are using.
 
