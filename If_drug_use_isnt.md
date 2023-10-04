@@ -2,7 +2,7 @@
 
 Our society likes to think that drugs cause addiction. It’s the other way around for most people with addiction. Addiction causes the drug use. To explain this better, I’ll have to tell you some of the anatomy of the brain that involves addiction. The picture below is a crude diagram of a part of the brain called the reward center.
 
-
+![Primary Reward Circuit](./If_drug_use_isnt_1.jpg)
 
 The circle labeled VTA represents a group of brain cells (neurons) called the Ventral Tegmental Area. They produce a neurotransmitter called dopamine (DA), which they release to provide a signal to other neurons. They send this dopamine signal to another group of cells called the Nucleus Accumbens (NA). This is where the magic happens. Whatever you’re doing when a big slug of dopamine hits the shell of the Nucleus Accumbens gets coded as a good thing that’s necessary for survival and that you should do more of. Dopamine at the Nucleus Accumbens is why we do anything twice. For normal people normal levels of dopamine release provide normal levels of pleasure and reward. But some people don’t have normal levels of dopamine so normal activities don’t lead to normal reward. They need bigger stimulation to feel what other people feel normally.
 
@@ -12,7 +12,7 @@ Notice that the Nucleus Accumbens is not only important to life and happiness, b
 
 Another thing the Nucleus Accumbens does is send a signal using a different neurotransmitter, called serotonin, to a part of the brain called the frontal cortex. That signal is felt as self-esteem or “I’m doing okay.” If you don’t have enough dopamine function, you don’t get that signal.
 
-
+![I'm okay](./If_drug_use_isnt_2.jpg)
 
 So, let’s imagine what it would be like without enough dopamine in the system. Little things would not excite us or matter to us. We would have difficulty paying attention and remembering things because those actions require dopamine. Normal pleasures would give us nothing at all, and we’d look around at other people enjoying themselves and wonder what is wrong with us. We’d feel alone and pretty much less than others. Because nothing much was rewarding, there would not be much reason to get up off the sofa. If we were born this way, we’d have no way to identify it as an illness because we’ve never known anything else. Just as sight for someone born blind would just be something other people could do, so would enjoying little things be for us. Until, of course, we found a drug that raised our dopamine and made us feel pretty good. With a higher dopamine level, we could feel comfortable and relaxed. We could enjoy little things; we could feel a part of the world. It would be like a congenitally blind person suddenly able to see. What percentage of them do you think would be satisfied with their newfound sight going away after a few minutes and then being told they could never have it again? Well, that’s about the percentage of addicts who would be satisfied to just stop using and go back to the way they’ve felt all their lives.
 Addiction isn’t using drugs; it’s what it feels like to the addict to live without using drugs. The symptoms are what people with addiction feel when they aren’t using, not what happens when they do.
