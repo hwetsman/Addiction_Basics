@@ -4,7 +4,7 @@ Well, it kind of depends on what you mean by addiction. I’ll give you the whol
 
 Earlier we discussed the reward center of the brain, and I showed you the dopamine-enkephalin feedback loop. That’s the biology of the compulsive use part of addiction. Before we go on to another part though, there’s something I want to add.
 
-
+![Putting It All Together](./Where_is_addiction_1.jpg)
 
 As you can see in the diagram both the NA and the VTA have inputs that use a neurotransmitter called GABA. Specifically they both have on their surfaces a special type of GABA receptor called GABA receptor b (GABAb). When the GABAb receptor is stimulated, it is more difficult for that cell to fire and send a signal. Think of it as a kind of dimmer switch. Energy is still going through, just not as much. So the cycle doesn’t go so far out of control. This may not seem relevant right now but it will be later when we talk about treatment.
 
