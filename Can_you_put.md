@@ -15,3 +15,5 @@ The glutamate signal to the MFB is more about triggering with cues and relapse. 
 
 The Periaqueductal Gray handles withdrawal and since we use drugs systemically, taking a drug while in withdrawal will calm the symptoms. The PG does have a connection with the MFB that causes the dopamine level to fall, just like hunger or thirst would. That’s what lets us know it’s the drug we need to stop the withdrawal.
 Sorry, but you’ll have to turn the book sideways to see the picture.
+
+![The Whole Shooting Match](./Can_you_put_1.jpg)
