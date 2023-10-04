@@ -4,7 +4,7 @@ You would probably think that the answer is something that has only recently bee
 
 In addition to blocking the effects by blocking dopamine receptors, the drugs’ effects could be blocked by various other means, according to the drug being affected. For instance, opioid blockers blocked the effect of morphine and methadone, while nicotine receptor blockers blocked the effect of nicotine. So, it’s been a while now that we’ve known, or should have known, that while drugs work via different receptors and different methods to make the reward system activated, they all produce the same final common effect, reward system activation. While it took scientists a long time to figure that out, it seems pretty much like common sense when you think about it. If it doesn’t activate the reward system, why use it twice?
 
-
+![Dopamine Release](./What_happens_1.jpg)
 
 As you can see by the chart, the drugs work at different time intervals, and it looks like everything returns to normal after the drugs wear off. But we must remember that the dopamine level isn’t the whole story. What counts is the dopamine tone, which is a combination of how much dopamine is there for how long and how many receptors we have to see the dopamine.
 
