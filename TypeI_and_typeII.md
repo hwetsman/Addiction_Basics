@@ -13,7 +13,7 @@ It turns out that rats, regular rats that is, don’t really like drinking alcoh
 
 So you start by adding a little sugar and a few of the rats will drink it. As you add more and more sugar, more and more rats will start drinking. Eventually you’ll add enough sugar so that only the very few rats that are most averse to alcohol will not have started drinking. If you line these rats up in the order they started drinking you get the scientific bell shaped curve (see below). Now you take the rats on the right of the curve (they like alcohol the least) and mate the males and females together. You do the same for the rats on the left of the curve (they dislike alcohol the least). Now you have two new sets of rats --those descended from the left hand of the curve and those descended from the right hand side of the curve. With each of those two groups you do the same experiment, each time taking the extreme right or left and mating them together to make yet another group. So in each generation you get a bell shaped curve, but the curves get farther and farther apart. After about 14 or 15 generations you now have two new strains of rats.
 
-![A Natural Experiment](./TypeI_and_typeII.jpg)
+![A Natural Experiment](./TypeI_and_typeII_1.jpg)
 
 Those rats descended from the right hand side of the curve don’t like alcohol at all. They won’t self administer drugs. They just don’t see the point. The rats descended from the left hand side of the curve are very different. They’ll drink straight lab alcohol with no sugar. They love self administering drugs.
 
