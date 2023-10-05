@@ -1,6 +1,8 @@
 [Note on 2023 placement on github: This book was written over a decade ago. While
 there have been many improvements of specifics of the neurobiology and medications
-available since then, the underlying model is still intact. The more mainstream model
+available since then, the underlying model is still intact.
+
+The more frequently-recognized, mainstream model that most treatment in America is based on
 still suggests that everyone is normal before using drugs, and that there is no role for
 genetics in choosing treatments beyond pharmacokinetics. This is a disservice to those
 with addiction. We need a broader model that explains the broader illness if we
